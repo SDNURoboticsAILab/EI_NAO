@@ -85,3 +85,9 @@ pip install -r requirements.txt
 
 - **监控与支持**：进行软件运行监控，提供技术支持。
 - **更新与迭代**：根据用户反馈和需求变化，定期更新软件，修复bug和添加新功能。
+
+## 其他说明
+
+1.开发过程需要按照上述流程依次进行。
+2.开发依赖库为[libqi-python](https://github.com/aldebaran/libqi-python)。
+3.开发流程所有同学需要积极参与讨论，经讨论后由zht、cj、hc三位同学对讨论内容进行整合。
